@@ -123,6 +123,7 @@ Make your code easier to read by leveraging the indent and unindent commands.
 * Ctrl + /
 
 Leave comments in your code with the toggle comments command. You'll thank yourself later! Also, this is great for quickly debugging.
+
 ![meme](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/582c4d5c_toggle-comment/toggle-comment.gif)
 
 ### Tab Management
@@ -160,6 +161,7 @@ Try opening a folder inside Sublime or Atom. Notice how you can see all the file
 * Ctrl + F
 
 Looking for a word in a file? Use the find command to search for it. Want to search the entire project? Add ⇧ (Shift) to the command.
+
 ![meme](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/582c4e08_find/find.gif)
 
 ### Want to See More?
