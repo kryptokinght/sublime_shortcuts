@@ -172,3 +172,5 @@ For an entire list of Sublime’s or Atom’s keyboard shortcuts, visit the link
 * [Shortcuts for Windows/Linux](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 ### Atom
 * [Shortcuts for Atom](https://github.com/nwinkler/atom-keyboard-shortcuts)
+
+[source: Google Udacity Front End Developer Course]
